@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "peibo_profile.png"
   name             : "Peibo Zhang"
-  pronouns         : "She/Her"  
+  # pronouns         :  
   bio              : "PhD Candidate at Emory University"
   location         : "Atlanta, United States"
   # employer         : "Red Brick University"
   # uri              : # URL
-  email            : peibo.zhang@emory.edu
+  peibo.zhang@emory.edu            : peibo.zhang@emory.edu
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
