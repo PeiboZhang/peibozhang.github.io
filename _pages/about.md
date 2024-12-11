@@ -22,13 +22,13 @@ Hi, I am Peibo Zhang. Welcome to my personal website!
 
 I am currently a third-year PhD candidate in operation management at Goizueta Business School, Emory Univeristy. My reserach interests is in online platform operations and causual inference. I am advised by Professor [Ruomeng Cui](http://ruomengcui.com/) and Professor [Dennis Zhang](http://www.denniszhang.org/).
 
-**Education** ---
+**Education**---
 - Ph.D. in Operation Management, Emory University (2022 - Present)
 - M.S. in Operation Research, Georgia Institute of Technology (2021 - 2022)
 - M.S. in Supply Chain Management, University of Michigan Ann Arbor (2020 - 2021)
 - B.S. in Public Financial Management, Indiana University Bloomington (2015 - 2019)
 
-**Research** ---
+**Research**---
 - Dynamic Discrimination on Online Learning Platforms  Xinyu Cao, Dennis Zhang, Ruomeng Cui (_Working Paper_)
 
 
