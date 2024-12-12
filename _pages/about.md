@@ -34,14 +34,14 @@ My research interest broadly centers on online platform operations, Diversity, E
 <ul>
   <li style="list-style-type: disc;">Working Paper
     <ul>
-      <li style="list-style-type: circle;">Dynamic Discrimination on Online Learning Platforms, with Xinyu Cao, Dennis Zhang, Ruomeng Cui</li>
+      <li style="list-style-type: circle;">**Dynamic Discrimination on Online Learning Platforms**, with Xinyu Cao, Dennis Zhang, Ruomeng Cui</li>
     </ul>
   </li>
 </ul>
 
 ## Conference Presentations
 <ul>
-  <li style="list-style-type: disc;">Dynamic Discrimination on Online Learning Platforms
+  <li style="list-style-type: disc;">**Dynamic Discrimination on Online Learning Platforms**
     <ul>
       <li style="list-style-type: circle;">2024 INFORMS Annual Meeting, Seattle, WA</li>
       <li style="list-style-type: circle;">2024 MSOM Annual Meeting, Minneapolis, MN</li>
