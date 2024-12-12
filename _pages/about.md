@@ -39,7 +39,7 @@ My research interest broadly centers on online platform operations, Diversity, E
   </li>
 </ul>
 
-## Conference Talks
+## Conference Presentations
 <ul>
   <li style="list-style-type: disc;">Dynamic Discrimination on Online Learning Platforms
     <ul>
