@@ -18,7 +18,7 @@ redirect_from:
 </script>
 
 
-Hi, I'm Peibo Zhang. Welcome to my personal website!👋
+👋 Hi, I'm Peibo Zhang. Welcome to my personal website!
 
 I am currently a third-year Ph.D. candidate in Operations Management at Goizueta Business School, Emory University. I am fortunate to be advised by Professor [Ruomeng Cui](http://ruomengcui.com/) and Professor [Dennis Zhang](http://www.denniszhang.org/).
 
