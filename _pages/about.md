@@ -26,7 +26,7 @@ My research interest broadly centers on online platform operations, Diversity, E
 
 ## Education
 - Ph.D. in Operations Management, Emory University (2022 - Present)
-- M.S. in Operation Research, Georgia Institute of Technology (2021 - 2022)
+- M.S. in Operations Research, Georgia Institute of Technology (2021 - 2022)
 - M.S. in Supply Chain Management, University of Michigan Ann Arbor (2020 - 2021)
 - B.S. in Public Financial Management, Indiana University Bloomington (2015 - 2019)
 
