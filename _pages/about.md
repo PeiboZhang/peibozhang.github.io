@@ -49,6 +49,3 @@ My research interest broadly centers on online platform operations, Diversity, E
     </ul>
   </li>
 </ul>
-
-
-
