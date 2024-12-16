@@ -51,3 +51,7 @@ My research interest broadly centers on online platform operations, Diversity, E
 </ul>
 
 
+---
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=7eb6d3&w=300&t=tt&d=ZQjXYwGMGN1qr6YmVcDLtdYkZD9rs9f9RLI3B4q1e3A&co=f4f4f4&cmo=ddd39f&cmn=eab4b4&ct=0a0000'></script>
+
+
