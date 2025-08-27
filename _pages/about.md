@@ -40,7 +40,7 @@ My research interest broadly centers on online platform operations, generative A
 
 ## Conference Presentations
 <ul>
-  <li style="list-style-type: disc;"><b>Dynamic Discrimination on Online Learning Platforms</b>
+  <li style="list-style-type: disc;"><b>Dynamic Discrimination on Online Platforms</b>
     <ul>
       <li style="list-style-type: circle;">2025 INFORMS Annual Meeting, Atlanta, GA (Scheduled) </li>
       <li style="list-style-type: circle;">2025 POMS Conference, Atlanta, GA </li>
