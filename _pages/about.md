@@ -33,7 +33,7 @@ My research interest broadly centers on online platform operations, generative A
 ## Research
 <ul>
   <li style="list-style-type: disc;">
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264242" target="_blank"><b>Dynamic Discrimination on Online Learning Platforms</b></a>, with Xinyu Cao, Ruomeng Cui，Dennis Zhang, major revision at <b>Management Science</b>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264242" target="_blank">Dynamic Discrimination on Online Learning Platforms</a>, with Xinyu Cao, Ruomeng Cui，Dennis Zhang, major revision at <b>Management Science</b>
   </li>
 </ul>
 
