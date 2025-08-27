@@ -30,7 +30,7 @@ My research interest broadly centers on online platform operations, generative A
 - M.S. in Supply Chain Management, University of Michigan Ann Arbor (2020 - 2021)
 - B.S. in Public Financial Management, Indiana University Bloomington (2015 - 2019)
 
-## Research
+## Working Papers
 <ul>
   <li style="list-style-type: disc;">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264242" target="_blank">Dynamic Discrimination on Online Learning Platforms</a>, with Xinyu Cao, Ruomeng Cui, Dennis Zhang, major revision at <b>Management Science</b>
