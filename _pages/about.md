@@ -32,22 +32,18 @@ My research interest broadly centers on online platform operations, generative A
 
 ## Research
 <ul>
-  <li style="list-style-type: disc;">Working Paper
-    <ul>
-      <li style="list-style-type: circle;">
-        <b>Dynamic Discrimination on Online Learning Platforms</b>, with Xinyu Cao, Dennis Zhang, Ruomeng Cui
-        [Available on <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264242" target="_blank">SSRN</a>]
-      </li>
-    </ul>
+  <li style="list-style-type: disc;">
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264242" target="_blank"><b>Dynamic Discrimination on Online Learning Platforms</b></a>, with Xinyu Cao, Ruomeng Cui，Dennis Zhang, major revision at **Management Science**
   </li>
 </ul>
+
 
 ## Conference Presentations
 <ul>
   <li style="list-style-type: disc;"><b>Dynamic Discrimination on Online Learning Platforms</b>
     <ul>
       <li style="list-style-type: circle;">2025 INFORMS Annual Meeting, Atlanta, GA (Scheduled) </li>
-      <li style="list-style-type: circle;">2025 POMS Conference, Atlanta, GA (Scheduled) </li>
+      <li style="list-style-type: circle;">2025 POMS Conference, Atlanta, GA </li>
       <li style="list-style-type: circle;">2024 INFORMS Annual Meeting, Seattle, WA</li>
       <li style="list-style-type: circle;">2024 MSOM Annual Meeting, Minneapolis, MN</li>
     </ul>
