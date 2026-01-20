@@ -60,9 +60,9 @@ My research interest broadly centers on online platform operations, generative A
 <h2>Pre-PhD Publications</h2>
 <ul>
   <li>
-    Chungjae Lee, Kevin Dalmeijer, Pascal Van Hentenryck, <b>Peibo Zhang</b> (2024).
+    Chungjae Lee, Kevin Dalmeijer, Pascal Van Hentenryck, <b>Peibo Zhang</b>.
     <a href="https://www.sciencedirect.com/science/article/pii/S2192437624000165" target="_blank">
-      Optimizing Autonomous Transfer Hub Networks: Quantifying the Potential Impact of Self-Driving Trucks
+      Optimizing Autonomous Transfer Hub Networks: Quantifying the Potential Impact of Self-Driving Trucks (2024).
     </a>.
     <i>EURO Journal on Transportation and Logistics</i>, 13, 100141.
   </li>
