@@ -25,11 +25,18 @@ I am a Ph.D. candidate in Operations Management at Emory University. I am fortun
 My research interest broadly centers on online platform operations, generative AI applications, and causal inference.
 
 <h2>Education</h2>
-- Ph.D. in Operations Management, Emory University (2022–Present)
-  - Visiting Ph.D. Student, Washington University in St. Louis (Aug 2024–Dec 2024)
-- M.S. in Operations Research, Georgia Institute of Technology (2021–2022)
-- M.S. in Supply Chain Management, University of Michigan, Ann Arbor (2020–2021)
-- B.S. in Public Financial Management, Indiana University Bloomington (2015–2019)
+<ul>
+  <li>
+    Ph.D. in Operations Management, Emory University (2022–Present)
+    <ul>
+      <li>Visiting Ph.D. Student, Washington University in St. Louis (Aug 2024–Dec 2024)</li>
+    </ul>
+  </li>
+  <li>M.S. in Operations Research, Georgia Institute of Technology (2021–2022)</li>
+  <li>M.S. in Supply Chain Management, University of Michigan, Ann Arbor (2020–2021)</li>
+  <li>B.S. in Public Financial Management, Indiana University Bloomington (2015–2019)</li>
+</ul>
+
 
 <h2>Papers Under Review and Working Papers</h2>
 <ul>
