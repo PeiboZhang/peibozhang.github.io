@@ -20,7 +20,7 @@ redirect_from:
 
 👋 Hi, I'm Peibo Zhang. Welcome to my personal website!
 
-I am a Ph.D. candidate in Operations Management at Emory University. I am fortunate to be advised by Professor [Ruomeng Cui](http://ruomengcui.com/) and Professor [Dennis Zhang](http://www.denniszhang.org/).
+I am a Ph.D. candidate in Operations Management at Emory University. I am fortunate to be co-advised by Professor [Ruomeng Cui](http://ruomengcui.com/) and Professor [Dennis Zhang](http://www.denniszhang.org/).
 
 My research interest broadly centers on online platform operations, generative AI applications, and causal inference.
 
