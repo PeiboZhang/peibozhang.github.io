@@ -63,10 +63,10 @@ My research interest broadly centers on online platform operations, generative A
 <h2>Teaching Experience</h2>
 <ul>
   <li>
-    Process and Systems Management ISOM 351 (Undergraduate Core, 130+ students) — TA — Spring 2025, Spring 2026
+    Process and Systems Management ISOM 351 (Undergraduate Core, 130+ students); TA; Spring 2025, Spring 2026
   </li>
   <li>
-    Process and Systems Management ISOM 551 (Evening MBA Core, 90+ students) — TA — Spring 2025, Spring 2026
+    Process and Systems Management ISOM 551 (Evening MBA Core, 90+ students); TA; Spring 2025, Spring 2026
   </li>
 </ul>
 
