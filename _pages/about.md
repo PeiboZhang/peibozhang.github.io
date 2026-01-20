@@ -53,13 +53,33 @@ My research interest broadly centers on online platform operations, generative A
 
 <h2>Teaching Experience</h2>
 <ul>
-  <li>Process and Systems Management ISOM 351 (Undergraduate Core, 130+ students); TA; Spring 2025, Spring 2026</li>
-  <li>Process and Systems Management ISOM 551 (Evening MBA Core, 90+ students); TA; Spring 2025, Spring 2026</li>
+  <li>
+    Process and Systems Management ISOM 351 (Undergraduate Core, 130+ students) — TA — Spring 2025, Spring 2026
+  </li>
+  <li>
+    Process and Systems Management ISOM 551 (Evening MBA Core, 90+ students) — TA — Spring 2025, Spring 2026
+  </li>
+</ul>
+
+<h2>Awards and Fellowships</h2>
+<ul>
+  <li>Sheth Fellowship, Goizueta Business School, Emory University (2025)</li>
+  <li>Laney Fellowship, Laney Graduate School, Emory University (2022)</li>
+  <li>Doctoral Fellowship, Goizueta Business School, Emory University (2022)</li>
+</ul>
+
+<h2>Academic Services</h2>
+<ul>
+  <li><b>Session Chair</b>: INFORMS Annual Meeting (2025)</li>
+  <li>
+    <b>Reviewer</b>: INFORMS Behavioral Operations Management Best Working Paper Competition (2025)
+  </li>
 </ul>
 
 <h2>Conference Presentations and Workshops</h2>
 <ul>
-  <li><b>Evolution of Discrimination on Online Platforms</b>
+  <li>
+    <b>Evolution of Discrimination on Online Platforms</b>
     <ul>
       <li>2025 INFORMS Annual Meeting, Atlanta, GA</li>
       <li>2025 POMS Conference, Atlanta, GA</li>
@@ -67,23 +87,8 @@ My research interest broadly centers on online platform operations, generative A
       <li>2024 MSOM Conference, Minneapolis, MN</li>
     </ul>
   </li>
-  <li>2023 Behavioral Operations Management Summer Institute (BOMSI), Harvard Business School, Boston, MA</li>
-</ul>
-
-<h2>Academic Services</h2>
-<ul>
-  <li><b>Session Chair</b>: INFORMS Annual Meeting (2025)</li>
-  <li><b>Reviewer</b>: INFORMS Behavioral Operations Management Best Working Paper Competition (2025)</li>
-</ul>
-
-<h2>Pre-PhD Publications</h2>
-<ul>
   <li>
-    Chungjae Lee, Kevin Dalmeijer, Pascal Van Hentenryck, <b>Peibo Zhang</b> (2024).
-    <a href="https://www.sciencedirect.com/science/article/pii/S2192437624000165" target="_blank">
-      Optimizing Autonomous Transfer Hub Networks: Quantifying the Potential Impact of Self-Driving Trucks
-    </a>.
-    <i>EURO Journal on Transportation and Logistics</i>, 13, 100141.
+    2023 Behavioral Operations Management Summer Institute (BOMSI), Harvard Business School, Boston, MA
   </li>
 </ul>
 
@@ -93,7 +98,9 @@ My research interest broadly centers on online platform operations, generative A
     Machine Learning Scientist Intern, <i>TikTok</i> (2025)
     <ul>
       <li>
-        Conducted data-driven user segmentation analysis within the recommendation systems team to inform time-based optimization strategies and adopted a surrogate-metric framework to identify short-term indicators of long-term retention.
+        <small>
+          Conducted data-driven user segmentation analysis within the recommendation systems team to inform time-based optimization strategies and adopted a surrogate-metric framework to identify short-term indicators of long-term retention.
+        </small>
       </li>
     </ul>
   </li>
@@ -101,15 +108,10 @@ My research interest broadly centers on online platform operations, generative A
     Research Intern, <i>Meituan</i> (2024)
     <ul>
       <li>
-        Learned the end-to-end recommendation system pipeline within the recommendation re-ranking team and explored potential optimizations for fuzzy matching and query completion.
+        <small>
+          Learned the end-to-end recommendation system pipeline within the recommendation re-ranking team and explored potential optimizations for fuzzy matching and query completion.
+        </small>
       </li>
     </ul>
   </li>
-</ul>
-
-<h2>Awards and Fellowships</h2>
-<ul>
-  <li>Sheth Fellowship, Goizueta Business School, Emory University (2025)</li>
-  <li>Laney Fellowship, Laney Graduate School, Emory University (2022)</li>
-  <li>Doctoral Fellowship, Goizueta Business School, Emory University (2022)</li>
 </ul>
