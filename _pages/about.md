@@ -34,7 +34,7 @@ My research interest broadly centers on online platform operations, generative A
 <ul>
   <li style="list-style-type: disc;">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264242" target="_blank">
-      Evolution of Discrimination on Online Platforms
+      Evolution of Discrimination on Online Platforms (2025)
     </a>, with Xinyu Cao, Ruomeng Cui, Dennis Zhang, major revision at <b>Management Science</b>
   </li>
 </ul>
@@ -42,44 +42,22 @@ My research interest broadly centers on online platform operations, generative A
 ## Working Papers
 <ul>
   <li style="list-style-type: disc;">
-    The Impact of Generative AI on User-Generated Online Community
+    The Impact of Generative AI on User-Generated Online Community (2025),
+    with Ruomeng Cui and Dennis Zhang.
   </li>
   <li style="list-style-type: disc;">
-    Generative AI at Work: Developer Productivity and Labor Market Dynamics
+    Generative AI at Work: Developer Productivity and Labor Market (2025),
+    with Ruomeng Cui, Zhiyu Zeng, and Dennis Zhang.
   </li>
 </ul>
 
 <h2>Teaching Experience</h2>
 <ul>
-  <li>
-    Process and Systems Management ISOM 351 (Undergraduate Core, 130+ students) — TA — Spring 2025, Spring 2026
-  </li>
-  <li>
-    Process and Systems Management ISOM 551 (Evening MBA Core, 90+ students) — TA — Spring 2025, Spring 2026
-  </li>
+  <li>Process and Systems Management ISOM 351 (Undergraduate Core, 130+ students) — TA — Spring 2025, Spring 2026</li>
+  <li>Process and Systems Management ISOM 551 (Evening MBA Core, 90+ students) — TA — Spring 2025, Spring 2026</li>
 </ul>
 
-<h2>Industry Experience</h2>
-<ul>
-  <li>
-    <b>Machine Learning Scientist Intern</b>, <i>TikTok</i> (2025)
-    <ul>
-      <li>
-        Developed data-driven user segmentation within the recommendation systems team to inform time-based optimization strategies and adopted a surrogate-metric framework to identify short-term indicators of long-term retention.
-      </li>
-    </ul>
-  </li>
-  <li>
-    <b>Research Intern</b>, <i>Meituan</i> (2024)
-    <ul>
-      <li>
-        Learned the end-to-end recommendation system pipeline within the recommendation re-ranking team and explored potential optimizations for fuzzy matching and query completion.
-      </li>
-    </ul>
-  </li>
-</ul>
-
-## Conference Presentations and Workshops
+<h2>Conference Presentations and Workshops</h2>
 <ul>
   <li><b>Evolution of Discrimination on Online Platforms</b>
     <ul>
@@ -94,10 +72,9 @@ My research interest broadly centers on online platform operations, generative A
 
 <h2>Academic Services</h2>
 <ul>
-  <li><b>Session Chair</b>: 2025 INFORMS Annual Meeting</li>
-  <li><b>Reviewer</b>: 2025 INFORMS Behavioral Operations Management Best Working Paper Competition</li>
+  <li><b>Session Chair</b>: INFORMS Annual Meeting (2025)</li>
+  <li><b>Reviewer</b>: INFORMS Behavioral Operations Management Best Working Paper Competition (2025)</li>
 </ul>
-
 
 <h2>Pre-PhD Publications</h2>
 <ul>
@@ -107,6 +84,26 @@ My research interest broadly centers on online platform operations, generative A
       Optimizing Autonomous Transfer Hub Networks: Quantifying the Potential Impact of Self-Driving Trucks
     </a>.
     <i>EURO Journal on Transportation and Logistics</i>, 13, 100141.
+  </li>
+</ul>
+
+<h2>Industry Experience</h2>
+<ul>
+  <li>
+    <b>Machine Learning Scientist Intern</b>, <i>TikTok</i> (2025)
+    <ul>
+      <li>
+        Conducted data-driven user segmentation analysis within the recommendation systems team to inform time-based optimization strategies and adopted a surrogate-metric framework to identify short-term indicators of long-term retention.
+      </li>
+    </ul>
+  </li>
+  <li>
+    <b>Research Intern</b>, <i>Meituan</i> (2024)
+    <ul>
+      <li>
+        Learned the end-to-end recommendation system pipeline within the recommendation re-ranking team and explored potential optimizations for fuzzy matching and query completion.
+      </li>
+    </ul>
   </li>
 </ul>
 
