@@ -105,22 +105,8 @@ My research interest broadly centers on online platform operations, generative A
 <ul>
   <li>
     Machine Learning Scientist Intern, <i>TikTok</i> (2025)
-    <ul>
-      <li>
-        <small>
-          Conducted data-driven user segmentation analysis within the recommendation systems team to inform time-based optimization strategies and adopted a surrogate-metric framework to identify short-term indicators of long-term retention.
-        </small>
-      </li>
-    </ul>
   </li>
   <li>
     Research Intern, <i>Meituan</i> (2024)
-    <ul>
-      <li>
-        <small>
-          Learned the end-to-end recommendation system pipeline within the recommendation re-ranking team and explored potential optimizations for fuzzy matching and query completion.
-        </small>
-      </li>
-    </ul>
   </li>
 </ul>
