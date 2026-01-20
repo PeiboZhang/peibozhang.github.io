@@ -56,7 +56,7 @@ My research interest broadly centers on online platform operations, generative A
 <ul>
   <li style="list-style-type: disc;"><b>Evolution of Discrimination on Online Platforms</b>
     <ul>
-      <li style="list-style-type: circle;">2025 INFORMS Annual Meeting, Atlanta, GA (Scheduled) </li>
+      <li style="list-style-type: circle;">2025 INFORMS Annual Meeting, Atlanta, GA </li>
       <li style="list-style-type: circle;">2025 POMS Conference, Atlanta, GA </li>
       <li style="list-style-type: circle;">2024 INFORMS Annual Meeting, Seattle, WA</li>
       <li style="list-style-type: circle;">2024 MSOM Annual Meeting, Minneapolis, MN</li>
