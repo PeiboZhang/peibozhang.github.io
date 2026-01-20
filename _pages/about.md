@@ -30,24 +30,33 @@ My research interest broadly centers on online platform operations, generative A
 - M.S. in Supply Chain Management, University of Michigan Ann Arbor (2020 - 2021)
 - B.S. in Public Financial Management, Indiana University Bloomington (2015 - 2019)
 
-## Papers Under Review
+<h2>Papers Under Review and Working Papers</h2>
 <ul>
-  <li style="list-style-type: disc;">
+  <li>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264242" target="_blank">
       Evolution of Discrimination on Online Platforms (2025)
-    </a>, with Xinyu Cao, Ruomeng Cui, Dennis Zhang, major revision at <b>Management Science</b>
+    </a>,
+    with Xinyu Cao, Ruomeng Cui, Dennis Zhang.
+    <i>Major Revision at <b>Management Science</b></i>
   </li>
-</ul>
-
-## Working Papers
-<ul>
-  <li style="list-style-type: disc;">
+  <li>
     The Impact of Generative AI on User-Generated Online Community (2025),
     with Ruomeng Cui and Dennis Zhang.
   </li>
-  <li style="list-style-type: disc;">
+  <li>
     Generative AI at Work: Developer Productivity and Labor Market (2025),
     with Ruomeng Cui, Zhiyu Zeng, and Dennis Zhang.
+  </li>
+</ul>
+
+<h2>Pre-PhD Publications</h2>
+<ul>
+  <li>
+    Chungjae Lee, Kevin Dalmeijer, Pascal Van Hentenryck, <b>Peibo Zhang</b> (2024).
+    <a href="https://www.sciencedirect.com/science/article/pii/S2192437624000165" target="_blank">
+      Optimizing Autonomous Transfer Hub Networks: Quantifying the Potential Impact of Self-Driving Trucks
+    </a>.
+    <i>EURO Journal on Transportation and Logistics</i>, 13, 100141.
   </li>
 </ul>
 
