@@ -53,8 +53,8 @@ My research interest broadly centers on online platform operations, generative A
 
 <h2>Teaching Experience</h2>
 <ul>
-  <li>Process and Systems Management ISOM 351 (Undergraduate Core, 130+ students) — TA — Spring 2025, Spring 2026</li>
-  <li>Process and Systems Management ISOM 551 (Evening MBA Core, 90+ students) — TA — Spring 2025, Spring 2026</li>
+  <li>Process and Systems Management ISOM 351 (Undergraduate Core, 130+ students); TA; Spring 2025, Spring 2026</li>
+  <li>Process and Systems Management ISOM 551 (Evening MBA Core, 90+ students); TA; Spring 2025, Spring 2026</li>
 </ul>
 
 <h2>Conference Presentations and Workshops</h2>
@@ -90,7 +90,7 @@ My research interest broadly centers on online platform operations, generative A
 <h2>Industry Experience</h2>
 <ul>
   <li>
-    <b>Machine Learning Scientist Intern</b>, <i>TikTok</i> (2025)
+    Machine Learning Scientist Intern, <i>TikTok</i> (2025)
     <ul>
       <li>
         Conducted data-driven user segmentation analysis within the recommendation systems team to inform time-based optimization strategies and adopted a surrogate-metric framework to identify short-term indicators of long-term retention.
@@ -98,7 +98,7 @@ My research interest broadly centers on online platform operations, generative A
     </ul>
   </li>
   <li>
-    <b>Research Intern</b>, <i>Meituan</i> (2024)
+    Research Intern, <i>Meituan</i> (2024)
     <ul>
       <li>
         Learned the end-to-end recommendation system pipeline within the recommendation re-ranking team and explored potential optimizations for fuzzy matching and query completion.
