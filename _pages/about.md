@@ -45,7 +45,7 @@ My research interest broadly centers on online platform operations, generative A
       Evolution of Discrimination on Online Platforms (2025)
     </a>,
     with Xinyu Cao, Ruomeng Cui, Dennis Zhang.
-    <i>Major Revision at <b>Management Science</b></i>
+    <i>Minor Revision at <b>Management Science</b></i>
   </li>
   <li>
     The Impact of Generative AI on User-Generated Online Community (2025),
