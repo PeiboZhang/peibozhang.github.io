@@ -51,7 +51,7 @@ My research interest broadly centers on online platform operations, generative A
       Optimizing Autonomous Transfer Hub Networks: Quantifying the Potential Impact of Self-Driving Trucks (2024)
     </a>,
     with Chungjae Lee, Kevin Dalmeijer, Pascal Van Hentenryck.
-    <i>EURO Journal on Transportation and Logistics</i>, 13, 100141. (Pre-PhD Publication)
+    <i><b>EURO Journal on Transportation and Logistics</b></i>, 13, 100141. (Pre-PhD Publication)
   </li>
 </ul>
 
