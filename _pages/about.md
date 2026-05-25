@@ -59,13 +59,13 @@ My research interest broadly centers on online platform operations, generative A
 <ul>
   <li>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6762279" target="_blank">
-      The Impact of AI Search on the Online Content Ecosystem: Evidence from Google and Reddit (2025)
+      The Impact of AI Search on the Online Content Ecosystem: Evidence from Google and Reddit (2026)
     </a>,
     with Ruomeng Cui and Dennis Zhang.
     <i>Under Review</i>
   </li>
   <li>
-    Generative AI at Work: Developer Productivity and Labor Market (2025),
+    Generative AI at Work: Developer Productivity and Labor Market,
     with Ruomeng Cui, Zhiyu Zeng, and Dennis Zhang.
   </li>
 </ul>
