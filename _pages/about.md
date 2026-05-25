@@ -37,34 +37,36 @@ My research interest broadly centers on online platform operations, generative A
   <li>B.S. in Public Financial Management, Indiana University Bloomington (2015–2019)</li>
 </ul>
 
-
-<h2>Papers Under Review and Working Papers</h2>
+<h2>Journal Publications</h2>
 <ul>
   <li>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264242" target="_blank">
       Evolution of Discrimination on Online Platforms (2025)
     </a>,
     with Xinyu Cao, Ruomeng Cui, Dennis Zhang.
-    <i>Accept at <b>Management Science</b></i>
+    <i>Forthcoming at <b>Management Science</b></i>
   </li>
-  <li>
-    The Impact of Generative AI on User-Generated Online Community (2025),
-    with Ruomeng Cui and Dennis Zhang.
-  </li>
-  <li>
-    Generative AI at Work: Developer Productivity and Labor Market (2025),
-    with Ruomeng Cui, Zhiyu Zeng, and Dennis Zhang.
-  </li>
-</ul>
-
-<h2>Pre-PhD Publications</h2>
-<ul>
   <li>
     Chungjae Lee, Kevin Dalmeijer, Pascal Van Hentenryck, <b>Peibo Zhang</b>.
     <a href="https://www.sciencedirect.com/science/article/pii/S2192437624000165" target="_blank">
       Optimizing Autonomous Transfer Hub Networks: Quantifying the Potential Impact of Self-Driving Trucks (2024)
     </a>.
-    <i>EURO Journal on Transportation and Logistics</i>, 13, 100141.
+    <i>EURO Journal on Transportation and Logistics</i>, 13, 100141. (Pre-PhD Publication)
+  </li>
+</ul>
+
+<h2>Working Papers</h2>
+<ul>
+  <li>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6762279" target="_blank">
+      The Impact of AI Search on the Online Content Ecosystem: Evidence from Google and Reddit (2025)
+    </a>,
+    with Ruomeng Cui and Dennis Zhang.
+    <i>Under Review</i>
+  </li>
+  <li>
+    Generative AI at Work: Developer Productivity and Labor Market (2025),
+    with Ruomeng Cui, Zhiyu Zeng, and Dennis Zhang.
   </li>
 </ul>
 
