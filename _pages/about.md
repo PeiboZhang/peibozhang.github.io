@@ -78,6 +78,9 @@ My research interest broadly centers on online platform operations, generative A
   <li>
     Process and Systems Management ISOM 551 (Evening MBA Core, 90+ students); TA; Spring 2025, Spring 2026
   </li>
+  <li>
+    Teaching Evalution Score Median: 5.0/5.0
+  </li>
 </ul>
 
 <h2>Awards and Fellowships</h2>
