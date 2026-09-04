@@ -40,11 +40,11 @@ My research interest broadly centers on online platform operations, generative A
 <h2>Journal Publications</h2>
 <ul>
   <li>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264242" target="_blank">
+    <a href="https://doi.org/10.1287/mnsc.2025.02111" target="_blank">
       Evolution of Discrimination on Online Platforms (2025)
     </a>,
     with Xinyu Cao, Ruomeng Cui, Dennis Zhang.
-    <i>Forthcoming at <b>Management Science</b></i>
+    <i><b>Management Science</b></i>
   </li>
   <li>
     <a href="https://www.sciencedirect.com/science/article/pii/S2192437624000165" target="_blank">
@@ -62,7 +62,7 @@ My research interest broadly centers on online platform operations, generative A
       The Impact of AI Search on the Online Content Ecosystem: Evidence from Google and Reddit (2026)
     </a>,
     with Ruomeng Cui and Dennis Zhang.
-    <i>Under Review</i>
+    <i>Major Revision at  <b>Management Science</b></i>
   </li>
   <li>
     Generative AI at Work: Developer Productivity and Labor Market,
