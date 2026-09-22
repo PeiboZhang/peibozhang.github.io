@@ -40,6 +40,18 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 /* Dark mode: html[data-theme] is set in _includes/head/custom.html, toggled in _includes/masthead.html */
+.masthead__inner-wrap { position: relative; }
+.masthead__menu { padding-right: 2.5em; }
+.theme-toggle {
+  position: absolute;
+  top: 50%;
+  right: 1em;
+  transform: translateY(-50%);
+  padding: 0.25em;
+  font-size: 1.1em;
+  color: $masthead-link-color;
+}
+.theme-toggle:hover { color: $masthead-link-color-hover; }
 .theme-toggle__sun { display: none; }
 html[data-theme="dark"] .theme-toggle__sun { display: inline; }
 html[data-theme="dark"] .theme-toggle__moon { display: none; }
@@ -54,8 +66,10 @@ html[data-theme="dark"] body,
 html[data-theme="dark"] .author__name,
 html[data-theme="dark"] .author__urls a { color: #d6d9dd; }
 html[data-theme="dark"] a { color: #6cc4de; }
-html[data-theme="dark"] .greedy-nav a { color: #a9b0b7; }
-html[data-theme="dark"] .greedy-nav a:hover { color: #fff; }
+html[data-theme="dark"] .greedy-nav a,
+html[data-theme="dark"] .theme-toggle { color: #a9b0b7; }
+html[data-theme="dark"] .greedy-nav a:hover,
+html[data-theme="dark"] .theme-toggle:hover { color: #fff; }
 html[data-theme="dark"] .masthead,
 html[data-theme="dark"] .page__content h2,
 html[data-theme="dark"] .author__avatar img,
