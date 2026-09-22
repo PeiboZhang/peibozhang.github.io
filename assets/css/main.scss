@@ -39,3 +39,31 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* Dark mode: html[data-theme] is set in _includes/head/custom.html, toggled in _includes/masthead.html */
+.theme-toggle__sun { display: none; }
+html[data-theme="dark"] .theme-toggle__sun { display: inline; }
+html[data-theme="dark"] .theme-toggle__moon { display: none; }
+
+html[data-theme="dark"],
+html[data-theme="dark"] body,
+html[data-theme="dark"] .masthead,
+html[data-theme="dark"] .greedy-nav,
+html[data-theme="dark"] .greedy-nav .hidden-links,
+html[data-theme="dark"] .author__urls { background: #16181c; }
+html[data-theme="dark"] body,
+html[data-theme="dark"] .author__name,
+html[data-theme="dark"] .author__urls a { color: #d6d9dd; }
+html[data-theme="dark"] a { color: #6cc4de; }
+html[data-theme="dark"] .greedy-nav a { color: #a9b0b7; }
+html[data-theme="dark"] .greedy-nav a:hover { color: #fff; }
+html[data-theme="dark"] .masthead,
+html[data-theme="dark"] .page__content h2,
+html[data-theme="dark"] .author__avatar img,
+html[data-theme="dark"] .greedy-nav .hidden-links,
+html[data-theme="dark"] .author__urls { border-color: #2c3036; }
+html[data-theme="dark"] .greedy-nav .hidden-links:after { border-color: #16181c transparent; }
+html[data-theme="dark"] .author__urls:after { border-color: #16181c transparent; }
+html[data-theme="dark"] .author__urls-wrapper .btn--inverse { background: #1e2125; color: #d6d9dd; border-color: #2c3036; }
+html[data-theme="dark"] .page__footer { background-color: #1e2125; border-top-color: #2c3036; }
+html[data-theme="dark"] code,
+html[data-theme="dark"] pre { background: #1e2125; }
