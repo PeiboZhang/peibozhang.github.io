@@ -140,6 +140,7 @@ redirect_from:
 <ul>
   <li>Address: 1300 Clifton Rd, W418, Atlanta, GA 30329</li>
   <li>Email: <a href="mailto:peibo.zhang@emory.edu">peibo.zhang@emory.edu</a></li>
+  <li>Phone: +1 (812)-361-6750</li>
 </ul>
 </div>
 </div>
