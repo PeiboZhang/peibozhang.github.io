@@ -18,7 +18,7 @@ redirect_from:
 </script>
 
 
-👋 Hi, I'm Peibo Zhang. Welcome to my personal website!
+Hi, I'm Peibo Zhang. Welcome to my personal website!
 
 I am a Ph.D. candidate in Operations Management at Emory University. I am fortunate to be co-advised by Professor [Ruomeng Cui](http://ruomengcui.com/) and Professor [Dennis Zhang](http://www.denniszhang.org/).
 
@@ -37,7 +37,7 @@ My research interest broadly centers on online platform operations, generative A
   <li>B.S. in Public Financial Management, Indiana University Bloomington (2015–2019)</li>
 </ul>
 
-<h2>Journal Publication and Under Review</h2>
+<h2>Journal Publication</h2>
 <ul>
   <li>
     <a href="https://doi.org/10.1287/mnsc.2025.02111" target="_blank">
@@ -46,6 +46,10 @@ My research interest broadly centers on online platform operations, generative A
     with Xinyu Cao, Ruomeng Cui, Dennis Zhang.
     <i><b>Management Science</b></i>
   </li>
+</ul>
+
+<h2>Working Paper</h2>
+<ul>
   <li>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6762279" target="_blank">
       The Impact of AI Search on the Online Content Ecosystem: Evidence from Google and Reddit (2026)
@@ -55,7 +59,7 @@ My research interest broadly centers on online platform operations, generative A
   </li>
 </ul>
 
-<h2>Working Papers</h2>
+<h2>Work in Progress</h2>
 <ul>
   <li>
     Lemons in the Age of AI: Evidence from GitHub, solo-authored.
