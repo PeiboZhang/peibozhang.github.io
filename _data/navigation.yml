@@ -15,14 +15,14 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "Industry"
-    url: /#industry
-
   - title: "Research"
     url: /#research
 
   - title: "Teaching"
     url: /#teaching
+
+  - title: "Industry"
+    url: /#industry
 
   - title: "Contact"
     url: /#contact

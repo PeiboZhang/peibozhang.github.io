@@ -48,28 +48,6 @@ redirect_from:
 </div>
 </section>
 
-<section class="home-band" id="industry">
-<div class="home-band__inner">
-<h2 class="home-band__title">Industry</h2>
-<div class="home-band__body">
-<ul>
-  <li>
-    Research Collaboration, <i>OpenRouter</i>, 2026 - Present
-  </li>
-  <li>
-    Research Collaboration, <i>Upwork</i>, 2026 - Present
-  </li>
-  <li>
-    Machine Learning Scientist Intern, <i>TikTok U.S.</i>, Summer 2025
-  </li>
-  <li>
-    Research Intern, <i>Meituan</i>, Summer 2024
-  </li>
-</ul>
-</div>
-</div>
-</section>
-
 <section class="home-band" id="research">
 <div class="home-band__inner">
 <h2 class="home-band__title">Research</h2>
@@ -127,6 +105,28 @@ redirect_from:
   </li>
   <li>
     Teaching Evaluation (Spring 2026): median 5/5, average 4.83/5
+  </li>
+</ul>
+</div>
+</div>
+</section>
+
+<section class="home-band" id="industry">
+<div class="home-band__inner">
+<h2 class="home-band__title">Industry</h2>
+<div class="home-band__body">
+<ul>
+  <li>
+    Research Collaboration, <i>OpenRouter</i>, 2026 - Present
+  </li>
+  <li>
+    Research Collaboration, <i>Upwork</i>, 2026 - Present
+  </li>
+  <li>
+    Machine Learning Scientist Intern, <i>TikTok U.S.</i>, Summer 2025
+  </li>
+  <li>
+    Research Intern, <i>Meituan</i>, Summer 2024
   </li>
 </ul>
 </div>
