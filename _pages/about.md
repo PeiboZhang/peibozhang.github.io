@@ -35,14 +35,14 @@ redirect_from:
 <h2 id="education">Education</h2>
 <ul>
   <li>
-    Ph.D. in Operations Management, Emory University (2022–Present)
+    Ph.D. in Operations Management, Emory University, 2022 - Present
     <ul>
-      <li>Visiting Ph.D. Student, Washington University in St. Louis (Aug 2024–Dec 2024)</li>
+      <li>Visiting Ph.D. Student, Washington University in St. Louis, Fall 2024</li>
     </ul>
   </li>
-  <li>M.S. in Operations Research, Georgia Institute of Technology (2021–2022)</li>
-  <li>M.S. in Supply Chain Management, University of Michigan, Ann Arbor (2020–2021)</li>
-  <li>B.S. in Public Financial Management, Indiana University Bloomington (2015–2019)</li>
+  <li>M.S. in Operations Research, Georgia Institute of Technology, 2022</li>
+  <li>M.S. in Supply Chain Management, University of Michigan, Ann Arbor, 2021</li>
+  <li>B.S. in Public Financial Management, Indiana University Bloomington, 2019</li>
 </ul>
 </div>
 </div>
