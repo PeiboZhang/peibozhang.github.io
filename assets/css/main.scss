@@ -103,7 +103,7 @@ html[data-theme="dark"] pre { background: #1e2125; }
 /* profile block reuses _includes/author-profile.html; mirror the .sidebar text sizes */
 .home-profile .author__name { font-family: $sans-serif; font-size: $type-size-5; }
 .home-profile p, .home-profile li { font-family: $sans-serif; font-size: $type-size-6; line-height: 1.5; }
-.home-hero__welcome { font-size: calc(2.2em - 2px); font-weight: 700; line-height: 1.2; margin: 0 0 0.5em; }
+.home-hero__welcome { font-size: 1.6em; font-weight: 700; line-height: 1.2; margin: 0 0 0.5em; }
 .home-hero__body h2 { margin-top: 1.4em; padding-bottom: 0.3em; border-bottom: 1px solid #f2f3f3; }
 
 html[data-theme="dark"] .home-band:nth-of-type(even) { background: #1e2125; }
