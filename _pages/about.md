@@ -63,7 +63,7 @@ redirect_from:
   </li>
 </ul>
 
-<h3>Working Paper</h3>
+<h3>Paper Under Revision</h3>
 <ul>
   <li>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6762279" target="_blank">
@@ -74,7 +74,7 @@ redirect_from:
   </li>
 </ul>
 
-<h3>Work in Progress</h3>
+<h3>Working Papers &amp; Work in Progress</h3>
 <ul>
   <li>
     Lemons in the Age of AI: Evidence from GitHub, solo-authored.
