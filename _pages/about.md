@@ -37,26 +37,15 @@ My research interest broadly centers on online platform operations, generative A
   <li>B.S. in Public Financial Management, Indiana University Bloomington (2015–2019)</li>
 </ul>
 
-<h2>Journal Publications</h2>
+<h2>Journal Publication and Under Review</h2>
 <ul>
   <li>
     <a href="https://doi.org/10.1287/mnsc.2025.02111" target="_blank">
-      Evolution of Discrimination on Online Platforms (2025)
+      Evolution of Discrimination on Online Platforms (2026)
     </a>,
     with Xinyu Cao, Ruomeng Cui, Dennis Zhang.
     <i><b>Management Science</b></i>
   </li>
-  <li>
-    <a href="https://www.sciencedirect.com/science/article/pii/S2192437624000165" target="_blank">
-      Optimizing Autonomous Transfer Hub Networks: Quantifying the Potential Impact of Self-Driving Trucks (2024)
-    </a>,
-    with Chungjae Lee, Kevin Dalmeijer, Pascal Van Hentenryck.
-    <i><b>EURO Journal on Transportation and Logistics</b></i>, 13, 100141. (Pre-PhD Publication)
-  </li>
-</ul>
-
-<h2>Working Papers</h2>
-<ul>
   <li>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6762279" target="_blank">
       The Impact of AI Search on the Online Content Ecosystem: Evidence from Google and Reddit (2026)
@@ -64,22 +53,49 @@ My research interest broadly centers on online platform operations, generative A
     with Ruomeng Cui and Dennis Zhang.
     <i>Major Revision at  <b>Management Science</b></i>
   </li>
+</ul>
+
+<h2>Working Papers</h2>
+<ul>
   <li>
-    Generative AI at Work: Developer Productivity and Labor Market,
-    with Ruomeng Cui, Zhiyu Zeng, and Dennis Zhang.
+    Lemons in the Age of AI: Evidence from GitHub, solo-authored.
+  </li>
+  <li>
+    Intelligence is a Commodity: Evidence from OpenRouter,
+    with Ruomeng Cui and Dennis Zhang.
+  </li>
+  <li>
+    Empirical Evidence of Event-Based Pricing,
+    with Chenshan Hu, Dennis Zhang, Xiao Zhang, and Daniel Sokol.
+  </li>
+</ul>
+
+<h2>Industry Experience</h2>
+<ul>
+  <li>
+    Research Collaboration, <i>OpenRouter</i> (2026)
+  </li>
+  <li>
+    Research Collaboration, <i>Upwork</i> (2026)
+  </li>
+  <li>
+    Machine Learning Scientist Intern, <i>TikTok U.S.</i> (2025)
+  </li>
+  <li>
+    Research Intern, <i>Meituan</i> (2024)
   </li>
 </ul>
 
 <h2>Teaching Experience</h2>
 <ul>
   <li>
-    Process and Systems Management ISOM 351 (Undergraduate Core, 130+ students); TA; Spring 2025, Spring 2026
+    Process and Systems Management ISOM 351 (Undergraduate Core, 130+ students); TA; Spring 2025, Spring 2026, Fall 2026
   </li>
   <li>
     Process and Systems Management ISOM 551 (Evening MBA Core, 90+ students); TA; Spring 2025, Spring 2026
   </li>
   <li>
-    Teaching Evaluation Score Median: 5.0/5.0
+    Teaching Evaluation (Spring 2026): median 5/5, average 4.83/5
   </li>
 </ul>
 
@@ -94,7 +110,7 @@ My research interest broadly centers on online platform operations, generative A
 <ul>
   <li><b>Session Chair</b>: INFORMS Annual Meeting (2025)</li>
   <li>
-    <b>Reviewer</b>: INFORMS Behavioral Operations Management Best Working Paper Competition (2025)
+    <b>Reviewer</b>: INFORMS Behavioral Operations Management Best Working Paper Competition (2025, 2026)
   </li>
 </ul>
 
@@ -103,6 +119,7 @@ My research interest broadly centers on online platform operations, generative A
   <li>
     <b>Evolution of Discrimination on Online Platforms</b>
     <ul>
+      <li>2026 INFORMS Annual Meeting, San Francisco, CA</li>
       <li>2025 INFORMS Annual Meeting, Atlanta, GA</li>
       <li>2025 POMS Conference, Atlanta, GA</li>
       <li>2024 INFORMS Annual Meeting, Seattle, WA</li>
@@ -111,15 +128,5 @@ My research interest broadly centers on online platform operations, generative A
   </li>
   <li>
     2023 Behavioral Operations Management Summer Institute (BOMSI), Harvard Business School, Boston, MA
-  </li>
-</ul>
-
-<h2>Industry Experience</h2>
-<ul>
-  <li>
-    Machine Learning Scientist Intern, <i>TikTok</i> (2025)
-  </li>
-  <li>
-    Research Intern, <i>Meituan</i> (2024)
   </li>
 </ul>
