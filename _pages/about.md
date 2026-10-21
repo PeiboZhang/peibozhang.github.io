@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: ""
-author_profile: true
+layout: home
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
@@ -17,14 +18,21 @@ redirect_from:
   gtag('config', 'G-WK8B3JSX0Z');
 </script>
 
+{% include base_path %}
 
-Hi, I'm Peibo Zhang. Welcome to my personal website!
+<section class="home-band home-hero">
+<div class="home-band__inner">
+<div class="home-profile">
+{% include author-profile.html %}
+</div>
+<div class="home-hero__body">
+<p class="home-hero__welcome">Welcome! This is Peibo Zhang.</p>
 
-I am a Ph.D. candidate in Operations Management at Emory University. I am fortunate to be co-advised by Professor [Ruomeng Cui](http://ruomengcui.com/) and Professor [Dennis Zhang](http://www.denniszhang.org/).
+<p>I am a Ph.D. candidate in Operations Management at Emory University. My research focuses on AI governance: how AI systems reshape the production, distribution, and consumption of information, and what these changes mean for digital platforms and markets. I am fortunate to be co-advised by Professor <a href="http://ruomengcui.com/">Ruomeng Cui</a> and Professor <a href="http://www.denniszhang.org/">Dennis Zhang</a>.</p>
 
-My research interest broadly centers on online platform operations, generative AI applications, and causal inference.
+<p><b>I am on the 2026-2027 academic job market for a tenure-track position.</b></p>
 
-<h2>Education</h2>
+<h2 id="education">Education</h2>
 <ul>
   <li>
     Ph.D. in Operations Management, Emory University (2022–Present)
@@ -36,8 +44,15 @@ My research interest broadly centers on online platform operations, generative A
   <li>M.S. in Supply Chain Management, University of Michigan, Ann Arbor (2020–2021)</li>
   <li>B.S. in Public Financial Management, Indiana University Bloomington (2015–2019)</li>
 </ul>
+</div>
+</div>
+</section>
 
-<h2>Journal Publication</h2>
+<section class="home-band" id="research">
+<div class="home-band__inner">
+<h2 class="home-band__title">Research</h2>
+<div class="home-band__body">
+<h3>Journal Publication</h3>
 <ul>
   <li>
     <a href="https://doi.org/10.1287/mnsc.2025.02111" target="_blank">
@@ -48,7 +63,7 @@ My research interest broadly centers on online platform operations, generative A
   </li>
 </ul>
 
-<h2>Working Paper</h2>
+<h3>Working Paper</h3>
 <ul>
   <li>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6762279" target="_blank">
@@ -59,7 +74,7 @@ My research interest broadly centers on online platform operations, generative A
   </li>
 </ul>
 
-<h2>Work in Progress</h2>
+<h3>Work in Progress</h3>
 <ul>
   <li>
     Lemons in the Age of AI: Evidence from GitHub, solo-authored.
@@ -73,8 +88,33 @@ My research interest broadly centers on online platform operations, generative A
     with Chenshan Hu, Dennis Zhang, Xiao Zhang, and Daniel Sokol.
   </li>
 </ul>
+</div>
+</div>
+</section>
 
-<h2>Industry Experience</h2>
+<section class="home-band" id="teaching">
+<div class="home-band__inner">
+<h2 class="home-band__title">Teaching</h2>
+<div class="home-band__body">
+<ul>
+  <li>
+    Process and Systems Management ISOM 351 (Undergraduate Core, 130+ students); TA; Spring 2025, Spring 2026, Fall 2026
+  </li>
+  <li>
+    Process and Systems Management ISOM 551 (Evening MBA Core, 90+ students); TA; Spring 2025, Spring 2026
+  </li>
+  <li>
+    Teaching Evaluation (Spring 2026): median 5/5, average 4.83/5
+  </li>
+</ul>
+</div>
+</div>
+</section>
+
+<section class="home-band" id="industry">
+<div class="home-band__inner">
+<h2 class="home-band__title">Industry</h2>
+<div class="home-band__body">
 <ul>
   <li>
     Research Collaboration, <i>OpenRouter</i> (2026)
@@ -89,48 +129,18 @@ My research interest broadly centers on online platform operations, generative A
     Research Intern, <i>Meituan</i> (2024)
   </li>
 </ul>
+</div>
+</div>
+</section>
 
-<h2>Teaching Experience</h2>
+<section class="home-band" id="contact">
+<div class="home-band__inner">
+<h2 class="home-band__title">Contact</h2>
+<div class="home-band__body">
 <ul>
-  <li>
-    Process and Systems Management ISOM 351 (Undergraduate Core, 130+ students); TA; Spring 2025, Spring 2026, Fall 2026
-  </li>
-  <li>
-    Process and Systems Management ISOM 551 (Evening MBA Core, 90+ students); TA; Spring 2025, Spring 2026
-  </li>
-  <li>
-    Teaching Evaluation (Spring 2026): median 5/5, average 4.83/5
-  </li>
+  <li>Address: 1300 Clifton Rd, W418, Atlanta, GA 30329</li>
+  <li>Email: <a href="mailto:peibo.zhang@emory.edu">peibo.zhang@emory.edu</a></li>
 </ul>
-
-<h2>Awards and Fellowships</h2>
-<ul>
-  <li>Sheth Fellowship, Goizueta Business School, Emory University (2025)</li>
-  <li>Laney Fellowship, Laney Graduate School, Emory University (2022)</li>
-  <li>Doctoral Fellowship, Goizueta Business School, Emory University (2022)</li>
-</ul>
-
-<h2>Academic Services</h2>
-<ul>
-  <li><b>Session Chair</b>: INFORMS Annual Meeting (2025)</li>
-  <li>
-    <b>Reviewer</b>: INFORMS Behavioral Operations Management Best Working Paper Competition (2025, 2026)
-  </li>
-</ul>
-
-<h2>Conference Presentations and Workshops</h2>
-<ul>
-  <li>
-    <b>Evolution of Discrimination on Online Platforms</b>
-    <ul>
-      <li>2026 INFORMS Annual Meeting, San Francisco, CA</li>
-      <li>2025 INFORMS Annual Meeting, Atlanta, GA</li>
-      <li>2025 POMS Conference, Atlanta, GA</li>
-      <li>2024 INFORMS Annual Meeting, Seattle, WA</li>
-      <li>2024 MSOM Conference, Minneapolis, MN</li>
-    </ul>
-  </li>
-  <li>
-    2023 Behavioral Operations Management Summer Institute (BOMSI), Harvard Business School, Boston, MA
-  </li>
-</ul>
+</div>
+</div>
+</section>

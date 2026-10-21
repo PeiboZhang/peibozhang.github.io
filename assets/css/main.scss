@@ -81,3 +81,51 @@ html[data-theme="dark"] .author__urls-wrapper .btn--inverse { background: #1e212
 html[data-theme="dark"] .page__footer { background-color: #1e2125; border-top-color: #2c3036; }
 html[data-theme="dark"] code,
 html[data-theme="dark"] pre { background: #1e2125; }
+
+/* Homepage: full-width bands, section title on the left (layout: home) */
+#main.home { max-width: none; width: 100%; padding: 0; margin-top: 0; }
+.home-band { padding: 3.5em 1.5em; }
+.home-band:nth-of-type(even) { background: #f7f7f8; }
+.home-band__inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1em;
+  @include breakpoint($large) { grid-template-columns: 3fr 8fr; gap: 3em; }
+}
+.home-band[id] { scroll-margin-top: 70px; }
+.home-band__title { font-size: 2.2em; font-weight: 400; line-height: 1.2; margin: 0; }
+.home-band__body h3 { margin: 0 0 0.6em; font-weight: 500; }
+.home-band__body h3:not(:first-child) { margin-top: 1.4em; }
+.home-band__body ul { margin-top: 0; }
+
+/* profile block reuses _includes/author-profile.html; mirror the .sidebar text sizes */
+.home-profile .author__name { font-family: $sans-serif; font-size: $type-size-5; }
+.home-profile p, .home-profile li { font-family: $sans-serif; font-size: $type-size-6; line-height: 1.5; }
+.home-hero__welcome { font-size: calc(2.2em - 2px); font-weight: 700; line-height: 1.2; margin: 0 0 0.5em; }
+.home-hero__body h2 { margin-top: 1.4em; padding-bottom: 0.3em; border-bottom: 1px solid #f2f3f3; }
+
+html[data-theme="dark"] .home-band:nth-of-type(even) { background: #1e2125; }
+html[data-theme="dark"] .home-hero__body h2 { border-color: #2c3036; }
+.home-band__inner { align-items: start; }
+.home-band__title { border-bottom: none !important; padding-bottom: 0 !important; }
+.home-band__inner > * { min-width: 0; }
+/* homepage: footer follows the content instead of reserving 9em at the bottom */
+body:has(#main.home) { padding-bottom: 0; }
+body:has(#main.home) .page__footer { position: static; margin-top: 0; }
+.home-band:last-of-type { padding-bottom: 2.5em; }
+/* Emory logo under the profile photo (desktop only; the mobile profile is a compact row) */
+.author__logo { display: none; }
+@include breakpoint($large) {
+  .author__logo { display: block; margin-top: 35px; }
+}
+.author__logo img { width: 100%; max-width: 175px; }
+.author__logo--dark { display: none; }
+html[data-theme="dark"] .author__logo--light { display: none; }
+html[data-theme="dark"] .author__logo--dark { display: inline; }
+/* homepage: center the profile text under the photo (desktop) */
+@include breakpoint($large) {
+  .home-profile > div { width: fit-content; text-align: center; }
+  .home-profile .author__avatar img { display: block; margin: 0 auto; }
+}
