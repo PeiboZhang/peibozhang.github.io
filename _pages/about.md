@@ -28,7 +28,7 @@ redirect_from:
 <div class="home-hero__body">
 <p class="home-hero__welcome">Welcome! This is Peibo Zhang.</p>
 
-<p>I am a Ph.D. candidate in Operations Management at Emory University. My research focuses on AI governance: how AI systems reshape the production, distribution, and consumption of information, and what these changes mean for digital platforms and markets. I am fortunate to be co-advised by Professor <a href="http://ruomengcui.com/">Ruomeng Cui</a> and Professor <a href="http://www.denniszhang.org/">Dennis Zhang</a>.</p>
+<p>I am a Ph.D. candidate in Operations Management at Emory University. My research centers on AI governance, examining how AI systems reshape the production, distribution, and consumption of information, and what these shifts mean for society. I am fortunate to be co-advised by Professor <a href="http://ruomengcui.com/">Ruomeng Cui</a> and Professor <a href="http://www.denniszhang.org/">Dennis Zhang</a>.</p>
 
 <p><b>I am on the 2026-2027 academic job market for a tenure-track position.</b></p>
 
