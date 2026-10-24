@@ -70,7 +70,7 @@ redirect_from:
       The Impact of AI Search on the Online Content Ecosystem: Evidence from Google and Reddit (2026)
     </a>,
     with Ruomeng Cui and Dennis Zhang.
-    <i>Major Revision at  <b>Management Science</b></i>
+    <i>Major Revision at  <b>Management Science</b></i> <i>(Job Market Paper)</i>
   </li>
 </ul>
 
