@@ -32,6 +32,8 @@ redirect_from:
 
 <p><b>I am on the 2026-2027 academic job market for a tenure-track position.</b></p>
 
+<p><b>I will present at the 2026 INFORMS Annual Meeting in San Francisco: Tuesday, November 3, 4:15 to 5:30 PM, Moscone South-74 (Lower Mezz).</b></p>
+
 <h2 id="education">Education</h2>
 <ul>
   <li>
