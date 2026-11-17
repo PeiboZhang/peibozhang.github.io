@@ -18,10 +18,14 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    <div class="author__mobile-links">
+      <a class="btn btn--inverse" href="{{ base_path }}/files/PeiboZhang_CV.pdf">CV</a>
+      {% if author.googlescholar %}<a class="btn btn--inverse" href="{{ author.googlescholar }}"><i class="ai ai-google-scholar"></i> Google Scholar</a>{% endif %}
+      {% if author.linkedin %}<a class="btn btn--inverse" href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn</a>{% endif %}
+    </div>
   </div>
 
   <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       <!-- Font Awesome icons / Biographic information  -->
       {% if author.location %}
