@@ -137,10 +137,10 @@ html[data-theme="dark"] .author__logo--dark { display: inline; }
   .home-profile img.author__avatar { width: 220px; max-width: 100%; }
 }
 /* phone: name/title vertically centered beside the photo */
-.home-profile .author__content { vertical-align: middle; padding-left: 12px; padding-right: 0; }
+.home-profile .author__content { vertical-align: middle; padding-left: 12px; padding-right: 0; text-align: center; }
 /* phone: CV / Scholar / LinkedIn buttons under the bio; the Follow dropdown is hidden */
 .author__urls-wrapper { display: none; }
-.author__mobile-links { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 10px; }
+.author__mobile-links { display: flex; flex-wrap: wrap; gap: 4px; justify-content: center; margin-top: 10px; }
 .author__mobile-links .btn { margin: 0; padding: 0.4em 0.5em; font-size: 0.7em; white-space: nowrap; }
 html[data-theme="dark"] .author__mobile-links .btn--inverse { background: #1e2125; color: #d6d9dd; border-color: #2c3036; }
 @include breakpoint($large) {
